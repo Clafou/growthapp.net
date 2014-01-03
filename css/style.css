@@ -117,8 +117,7 @@ header .navigation a:hover{
 /* Hero */
 
 .hero{
-	padding-top:20px;
-	
+	padding:20px auto;
 }
 
 .hero .shot img{
@@ -794,7 +793,7 @@ footer .copy{
 	.hero .intro{
 		text-align:center;
 		max-width:500px;
-		margin:0px auto;
+		margin:10px auto;
 	}
 	
 	.hero .applinks {
@@ -854,4 +853,9 @@ footer .copy{
 }
 	
 */
+
+/* Seb */
+.padded-vertical {
+	padding: 10px 0;
+}
 

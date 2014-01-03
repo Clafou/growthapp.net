@@ -10,8 +10,8 @@ Clafou Apps does not have any access to your data or to personally-identifiable 
 
 You have sole control of your data. It exists only on your device, in your backups (if you back up your app data using iTunes or iCloud backup) and at whichever locations you have manually transferred it to using the app's export features.
 
-For this reason you should use make copies of your data using the export feature to protect from data loss in case of accidental deletion of the app or in case you lose your device.
+For this reason you should make copies of your data using the export feature to protect from data loss in case of accidental deletion of the app or loss of your device.
 
-###The information being collected###
+###Analytics data###
 
-My mission is to develop useful, high-quality apps. For this reason I use Crashlytics to get notifications and diagnosis data about crashes. I also use TapStream to measure marketing performance. None of the information involved includes personally-identifiable information or growth data.
+My mission is to develop useful, high-quality apps. For this reason I use Crashlytics to get diagnosis data about crashes, TapStream to track marketing performance, and Google analytics to monitor traffic to this website. None of the information involved includes personally-identifiable information or growth data.
