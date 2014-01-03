@@ -8,16 +8,21 @@ Yes. We don't see your data. For more details see the [privacy policy](/privacy)
 
 ##Is my data backed up?##
 
-Your data is backed up to iTunes or to iCloud (depending on your settings) like any app data. However bad things easily happen with iTunes and iCloud backups and your child's growth is not the sort of data that you would like to lose, so we recommend that you use any of the export features to keep a copy, such as the Export All Data option on the main screen or the email feature.
+Your data is backed up to iTunes or to iCloud (depending on your settings) like any app data. However bad things can happen with iTunes and iCloud backups and your child's growth is not the sort of data that you would like to lose, so we recommend that you use any of the export features to keep a copy, such as the Export All Data option on the main screen, or the Send email feature.
 
-##I replaced my iPhone/iPad/iPod touch. How do I recover my data?##
+##I am replacing my iPhone/iPad/iPod touch. How do I retain my data?##
 
-When setting up your new device, restore from an iCloud or iTunes backup. Your data will be there.
+Back up your old device to iCloud or iTunes, if not already done. Then when setting up your new device, restore from your backup.
 
 ##How do I transfer data to my husband, wife, or my second device?##
 
 On the home screen, tap the action button and Export All. You can also tap the action button on the chart page to only send the data for one child.
 If both your devices support AirDrop, then simply tap the account to which you wish the send the data. Otherwise email the data and open this email on the second device and tap the attachment.
+
+##How do I chart multiple children simultaneously?##
+
+Open the first child. Tap the settings (cogwheel) icon, then tap "Add A Child" and select an additional child. You can repeat to add more children if desired.
+
 
 ##Is iCloud supported?##
 
