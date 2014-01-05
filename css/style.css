@@ -859,3 +859,10 @@ footer .copy{
 	padding: 10px 0;
 }
 
+.review {
+	color: white;
+	background-color:#69b8e5;
+	padding: 10px 0;
+	text-align: center;	
+}
+
