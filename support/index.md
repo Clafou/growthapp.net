@@ -18,7 +18,7 @@ Back up your old device to iCloud or iTunes, if not already done. Then when sett
 
 ##How can I tell if my child is underweight, overweight or obese?##
 
-For children ages 2 and over, BMI is generally used to categorize weight status, as done with adults. The difference with adults is that the BMI ranges corresponding to underweight, healthy, overweight and obese categories fluctuate significantly with the age of the child, therefore BMI percentiles rather than BMI scores are used. A BMI percentile over 95% indicates obesity, over 85% is considered overweight, and under 5% underweight (source: [this CDC web page])(http://www.cdc.gov/healthyweight/assessing/bmi/childrens_bmi/about_childrens_bmi.html). Growth with its in-app upgrade (or Growth+) computes both BMI scores and BMI percentiles automatically to make such categorization easy.
+For children ages 2 and over, BMI is generally used to categorize weight status, as done with adults. The difference with adults is that the BMI ranges corresponding to underweight, healthy, overweight and obese categories fluctuate significantly with the age of the child, therefore BMI percentiles rather than BMI scores are used. A BMI percentile over 95% indicates obesity, over 85% is considered overweight, and under 5% underweight (source: [this CDC web page](http://www.cdc.gov/healthyweight/assessing/bmi/childrens_bmi/about_childrens_bmi.html)). Growth with its in-app upgrade (or Growth+) computes both BMI scores and BMI percentiles automatically to make such categorization easy.
 
 ##How do I chart multiple children simultaneously?##
 
