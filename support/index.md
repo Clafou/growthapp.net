@@ -24,6 +24,10 @@ For children ages 2 and over, BMI is generally used to categorize weight status,
 
 Open the first child. Tap the settings (wheel) icon, then tap "Add A Child" and select an additional child. You can repeat to add more children if desired.
 
+##How do I delete a child?##
+
+On the home screen, tap Edit in the top left corner. Then tap the red minus button next to the child and choose Delete.
+
 ##Is iCloud supported?##
 
 Not at present. AirDrop support makes data transfer easy, which lessens the need for iCloud. iCloud sync is currently [considered](http://www.theverge.com/2013/3/26/4148628/why-doesnt-icloud-just-work) to be overly risky and demanding in software engineering and in customer support.
