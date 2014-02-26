@@ -20,6 +20,10 @@ Back up your old device to iCloud or iTunes, if not already done. Then when sett
 
 For children ages 2 and over, BMI is generally used to categorize weight status, as done with adults. The difference with adults is that the BMI ranges corresponding to underweight, healthy, overweight and obese categories fluctuate significantly with the age of the child, therefore BMI percentiles rather than BMI scores are used. A BMI percentile over 95% indicates obesity, over 85% is considered overweight, and under 5% underweight (source: [this CDC web page](http://www.cdc.gov/healthyweight/assessing/bmi/childrens_bmi/about_childrens_bmi.html)). Growth with its in-app upgrade (or Growth+) computes both BMI scores and BMI percentiles automatically to make such categorization easy.
 
+##Are the charts representative of breastfed babies?##
+
+The WHO charts are based on breastfed babies, while the CDC charts are based on primarily formula-fed babies in the USA. More details are available on [this CDC web page](http://www.cdc.gov/nccdphp/dnpao/growthcharts/who/breastfeeding/)
+
 ##How do I chart multiple children simultaneously?##
 
 Open the first child. Tap the settings (wheel) icon, then tap "Add A Child" and select an additional child. You can repeat to add more children if desired.
@@ -38,7 +42,7 @@ Yes. We don't see your data. For more details see the [privacy policy](/privacy)
 
 ##Why are the premium features not free?##
 
-This app supports me as an indendent app developer (and also a parent) and represents months of work. It is ad-free and the upgrade (offering unlimited children, BMI, percentiles beyond one year and data import, for lifetime use on any number of devices) buys me a cup of espresso and contributes to the continued development of this app. I am grateful for your support!
+This app supports me as an indendent app developer (and also a parent) and represents months of work. It is ad-free and the upgrade (offering unlimited children, BMI, percentiles beyond one year and data import, for lifetime use on any number of devices) contributes to the continued development of this app. I am grateful for your support!
 
 ##I have other questions##
 
