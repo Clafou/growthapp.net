@@ -3,17 +3,6 @@ layout: default
 title: Support
 ---
 
-##It keeps crashing##
-
-There is a bug just being fixed (waiting for Apple approval). It only affects some users, but causes repeated crashes. Until the update is available, you can do this to stop the crashes happening:
-
-1. Create a new child.
-2. Open this new child. It won’t crash as there is no data yet.
-3. Tap the little wheel icon to reveal settings.
-4. Tap the colored marker for this child (third row from the bottom)
-5. At the bottom, toggle "Line" off.
-6. Tap Done and return to the home screen.
-
 ##How do I transfer data to my husband, wife, or my second device?##
 
 On the home screen, tap the action button and Export All. You can also tap the action button on the chart page to only send the data for one child.
