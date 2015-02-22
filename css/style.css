@@ -866,3 +866,21 @@ footer .copy{
 	text-align: center;	
 }
 
+input[type=submit]  {
+  background: #69b8e5;
+  padding: 10px 15px;
+  border: 0;
+  border-radius: 5px;
+  color: #fff;
+  margin: 1px;
+  height:40px;
+}
+input[type=email]  {
+  padding: 10px 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 1px;
+  height:40px;
+  width: 12em;
+}
+
