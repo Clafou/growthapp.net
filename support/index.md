@@ -6,7 +6,7 @@ title: Support
 ##How do I transfer data to my husband, wife, or my second device?##
 
 On the home screen, tap the action button and Export All. You can also tap the action button on the chart page to only send the data for one child.
-If both your devices support AirDrop, then simply tap the account to which you wish the send the data. Otherwise email the data and open this email on the second device and tap the attachment.
+If both your devices support AirDrop, then simply tap the account to which you wish the send the data. Otherwise email the data and open this email on the second device and tap the attachment (use the Apple Mail app, as other apps such as GMail and Outlook interfere with opening the attachment) or save the file to a cloud storage system such as DropBox and open it from there.
 
 ##Is my data backed up?##
 
