@@ -2,7 +2,7 @@
 layout: default
 title: Legal Notices
 ---
-###MTMigration###
+### MTMigration
 
 Copyright (c) 2012, Mysterious Trousers
 All rights reserved.
@@ -27,7 +27,7 @@ OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGEN
 OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF 
 ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-###SVProgressHUD###
+### SVProgressHUD
 
 Copyright (c) 2011 Sam Vermette
 
@@ -56,13 +56,13 @@ A different license may apply to other ressources included in this package,
 including Joseph Wain's Glyphish Icons. Please consult their 
 respective headers for the terms of their individual licenses.
 
-###UIImage+PDF###
+### UIImage+PDF
 
 Copyright 2012 Nigel Timothy Barber (http://twitter.com/mindbrix). All rights reserved.
 
 Permission is given to use this source code file without charge in any project, commercial or otherwise, entirely at your risk, with the condition that any redistribution (in part or whole) of source code must retain this copyright and permission notice. Attribution in compiled projects is appreciated but not required.
 
-###REDRangeSlider###
+### REDRangeSlider
 
 Copyright (c) Forever and ever Red Davis
 
@@ -73,7 +73,7 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-###SMCalloutView###
+### SMCalloutView
 Created by Nick Farina
 
 Apache License
