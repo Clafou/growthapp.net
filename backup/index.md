@@ -13,7 +13,7 @@ Even if <span class="notranslate">iCloud Backup</span> successfully restored you
 
 # How to safeguard your data
 
-Do the following from time to time and before you replace your device:
+Do one of the following things from time to time and before you replace your device:
 
 ### Option 1: Export your data
 
