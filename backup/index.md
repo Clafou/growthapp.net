@@ -5,11 +5,11 @@ subtitle: Your data is stored on your device. Make backups or copies to avoid lo
 ---
 
 
-# Do not rely exclusively on iCloud Backup
+# Do not rely exclusively on <span class="notranslate">iCloud Backup</span>
 
-You can treat *iCloud Backup* as a convenient kind of backup, but be warned: it can fail. Some Growth users have found that iCloud did not restore their data.
+You can treat <span class="notranslate">iCloud Backup </span> as a convenient kind of backup, but be warned: it can fail. Some Growth users have found that iCloud did not restore their data.
 
-Even if *iCloud Backup* successfully restored your Growth data in the past, do not expect success again in future.
+Even if <span class="notranslate">iCloud Backup</span> successfully restored your Growth data in the past, do not expect success again in future.
 
 # How to safeguard your data
 
@@ -19,8 +19,8 @@ Do the following from time to time and before you replace your device:
 
 Tap on the export icon, then tap on *Export all Data* to create a file containing the child's data.
 * Tap on Mail and email it yourself or to someone else. The data will then be in your mail archive.
-* Use AirDrop to send the data files to another device or to your computer.
-* Tap on *Save to Files* to save the data files to *iCloud Drive* or to your other file locations (such as Dropbox).
+* Or use <span class="notranslate">AirDrop</span> to send the data files to another device or to your computer.
+* Or tap on *Save to Files* to save the data files to <span class="notranslate">iCloud Drive</span> or to your other file locations (such as Dropbox).
 
 ### Option 2: Back up your device via USB
 
