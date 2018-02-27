@@ -53,7 +53,7 @@ hr{
 }
 
 
-.top{
+body .top{
 	background:#555 url('/img/back.jpg') repeat;
 	border-bottom:1px solid #000;
 
@@ -136,7 +136,7 @@ header .navigation a:hover{
 }
 
 .hero .intro p{
-	color:#eee;
+	color:#fff;
 	font-size:22px;
 }
 
